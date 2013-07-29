@@ -1,0 +1,20 @@
+{
+  "name": "karma-eyebrowse-launcher",
+  "version": "0.0.0",
+  "description": "karma.conf.js:",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/classdojo/karma-eyebrowse-launcher.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "7aff9641486046d92806da65a840b2d2c3b69db0",
+  "dependencies": {
+    "eyebrowse": "0.0.5"
+  }
+}
