@@ -1,4 +1,5 @@
-karma-eyebrowse-launcher
-========================
+karma.conf.js:
 
-eyebrowse launcher for karma runner
+```javascript
+    browsers: ['eyebrowse:chrome@19']
+```
