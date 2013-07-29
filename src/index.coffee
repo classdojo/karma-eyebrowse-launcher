@@ -21,8 +21,6 @@ class EyebrowseBrowser
 
   constructor: (baseBrowserDecorator, name, @args) ->
     baseBrowserDecorator @
-
-    console.log name, args
     @browserName = name.split("eyebrowse:").join("").replace(":", "@")
 
     #@_getCommand = @constructor.prototype._getCommand
